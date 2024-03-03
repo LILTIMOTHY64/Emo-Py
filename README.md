@@ -14,7 +14,7 @@ Expression Finder is a Python application that utilizes computer vision and deep
 1. Clone this repository to your local machine:
 
 ``
-git clone https://github.com/yourusername/Emo-py.git
+git clone https://github.com/LILTIMOTHY64/Emo-py.git
 ``
 
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 1. Run the application:
 
 ``
-python main.py
+python User Interface.py
 ``
 
 2. You will be prompted to enter the pathway for the video file or choose to use the camera.
