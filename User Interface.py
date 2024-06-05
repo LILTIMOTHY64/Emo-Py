@@ -6,7 +6,7 @@ layout = [
     [sg.Text("Welcome To Expression Finder")],
     [sg.Text("Please press Q to exit out of frame")],
     [sg.Text("Enter the pathway for the video file", )],
-    [sg.InputText(key='__file__')],
+    [sg.InputText(key='__file__'), sg.FileBrowse()],
     [
         sg.Button("Proceed", key='cont'),
         sg.Button("Quit"),
